@@ -1,30 +1,22 @@
 # java_h.yuki
-結城浩先生のjava入門書　プログラム\n
+結城浩先生のjava入門書
+
+## branch
+### branchを切る利点
+複数人で開発を行っている時に、masterのみでアジャイル開発を繰り返していると
+一人の開発が反映されるまで、他の作業者が待たなくてはならない。
+　それでは複数人開発する意味が無いため、工夫が必要である。
+開発を行っている段階では、こまめに保存するという意味合いで
+何回もcommitを行うことになる。※commitについての記述は後ほど
 
 
-Name
-====
 
-Overview
+## commit
+### こまめにcommitを行うことの利点
+ なにか新しい変更を行う毎にcommitを行うことで、
+どんな変更が加えられたのかわかりやすくなる。
+これは後々自分の開発を振り返った時や、過去の作成物を参照したい時に
+参照箇所を探す手間が省けるため、余計なことに時間を費やさなくて良くなる
 
-## Description
 
-## Demo
 
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-## Author
-
-[tcnksm](https://github.com/tcnksm)
